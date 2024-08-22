@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobpyyylz
 - 👀 I’m interested in ... gaming and anime
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... how to code any tips help
+- 💞️ I’m looking to collaborate on ... any thing
 - 📫 How to reach me ...   706-988-4443 text me only i dont pick up calls
 
 <!---

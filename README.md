@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @bobpyyylz
+- 👋 Hi, I’m @bobpyyyl
 - 👀 I’m interested in ... gaming and anime
 - 🌱 I’m currently learning ... how to code any tips help
 - 💞️ I’m looking to collaborate on ... any thing
-- 📫 How to reach me ...   706-988-4443 text me only i dont pick up calls
+- 📫 How to reach me ...   discord
+- 
 
 <!---
 bobpyyylz/bobpyyylz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
